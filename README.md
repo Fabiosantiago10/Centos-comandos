@@ -6,6 +6,11 @@
 
 `exit` Comando usado para fazer logout do terminal/sessão onde você estiver logado.
 
-`reboot` Comando é usado para reiniciar o servidor ou `shutdown -r now` 
+`reboot` Comando usado para reiniciar o servidor ou `shutdown -r now` 
 
+`ifconfig` Comando usado para verificar o iP, mascara e broadcast. 
+
+`yum install -y opnessh-server` Comando usado para instalar e habilitar o SSH ( Secure Shell ).
+
+`systemctl status sshd`  Comando para habilitar ssh-server `systemctl disable sshd` desabilitar o ssh-server, reiniciei o servidor com o comando `shutdown -r now`
 
