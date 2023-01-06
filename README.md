@@ -8,7 +8,7 @@
 
 `reboot` Comando usado para reiniciar o servidor ou `shutdown -r now` 
 
-`ifconfig` Comando usado para verificar o iP, mascara e broadcast. 
+`ifconfig` Comando usado para verificar o IP, mascara e broadcast. 
 
 `yum install -y opnessh-server` Comando usado para instalar e habilitar o SSH ( Secure Shell ).
 
