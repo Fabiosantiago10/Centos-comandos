@@ -15,3 +15,6 @@
 `systemctl status sshd`  Comando para habilitar ssh-server `systemctl disable sshd` desabilitar o ssh-server, reiniciei o servidor com o comando `shutdown -r now`
 
 `yum install vim-enhanced -y` Comando para instalar o editor de texto Vim. 
+
+`hostnamectl` Comando usado para verificar informações da maquina. 
+
