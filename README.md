@@ -18,3 +18,16 @@
 
 `hostnamectl` Comando usado para verificar informações da maquina. 
 
+`cat /etc/*release*` Comando usado para verificar a versão do linux 
+
+`wget` Ferramenta para conseguir fazer download de arquivos da Web.
+
+----- `Instalação MySQL` ----- 
+
+Utilizando o `wget`(link para download). 
+
+`yum install`( nome do pacote para a instalação). 
+
+
+
+
