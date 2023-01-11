@@ -22,11 +22,26 @@
 
 `wget` Ferramenta para conseguir fazer download de arquivos da Web.
 
+`ps -aux |grep mysqld` Comando para verificar servições 
+
 ----- `Instalação MySQL` ----- 
 
 Utilizando o `wget`(link para download). 
 
 `yum install`( nome do pacote para a instalação). 
+
+`sudo yum install mysql-community-server` Comando para instala o pacote para o servidor Mysql, e outros pacotes necessários. 
+
+`systemctl status mysqld` Comando usado para verificar se o MySLQ está rodando. 
+
+`mysql -uroot -p` Comando usado para logar no usuário Root do MySQL. 
+
+`sudo grep 'temporary password' /var/log/mysqld.log` Comando usado para localizar a senha root do MySQL. 
+
+`ALTER USER 'root'@'localhost' IDENTIFIED BY 'Colocar sua senha' Conectado no MYSQL, utilize esse comando para alterar a senha do Root.
+
+
+
 
 
 
