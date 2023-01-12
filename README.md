@@ -38,7 +38,7 @@ Utilizando o `wget`(link para download).
 
 `sudo grep 'temporary password' /var/log/mysqld.log` Comando usado para localizar a senha root do MySQL. 
 
-`ALTER USER 'root'@'localhost' IDENTIFIED BY 'Colocar sua senha' Conectado no MYSQL, utilize esse comando para alterar a senha do Root.
+`ALTER USER 'root'@'localhost' IDENTIFIED BY 'Colocar sua senha'` Conectado no MYSQL, utilize esse comando para alterar a senha do Root.
 
 
 
