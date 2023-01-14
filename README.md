@@ -1,5 +1,17 @@
 # Cent Os
 
+CentOS para os negócios poderia parecer, à primeira vista, uma
+recomendação estranha, mas não é. CentOS é outra distribuição baseada no Red
+Hat Enterprise Linux (RHEL), sendo 100% compatível com binários RHEL. 
+É uma visão geral e história de sistemas operacionais comunidade com suporte de distribuição,
+mas qualquer um que apoia a Red Hat
+também pode apoiar CentOS.
+Você está em boa companhia com CentOS. A VMware o utiliza para seus
+próprios dispositivos virtuais VMware e poderia usar qualquer distribuição Linux ou
+criar uma distribuição de marca.
+A empresa opta por usá-lo, tendo em vista sua qualidade e confiabilidade.
+
+
 `yum -y update` comando para baixar todas as atualizações de seus repositórios atuais. 
 
 `yum clean all` limpar todos os dados em cache relativos aos pacotes instalados. 
