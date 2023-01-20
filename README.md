@@ -36,7 +36,7 @@ A empresa opta por usá-lo, tendo em vista sua qualidade e confiabilidade.
 
 `ps -aux |grep mysqld` Comando para verificar servições 
 
------ `Instalação MySQL` ----- 
+# Instalação MySQL  
 
 Utilizando o `wget`(link para download). 
 
